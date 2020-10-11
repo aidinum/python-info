@@ -1,1 +1,2 @@
-# python-info
+# python-notebooks
+Jupiter Notebooks
